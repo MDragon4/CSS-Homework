@@ -1,1 +1,1 @@
-# CSS-Homework
+# About my first project on GitHub
